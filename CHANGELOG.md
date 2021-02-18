@@ -5,14 +5,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
-- Add End-to-end Integration test for Video Test App
-
-### Changed
-
-### Removed
-
-### Fixed
 
 ## [Unreleased]
 
@@ -24,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   `attendeePresenceReceived` meeting event.
 - Add the file sharing workaround for Chrome 88 in FAQs.
 - Add support for Chrome for iOS and Firefox for iOS.
+- Add End-to-end Integration test for Video Test App
 
 ### Changed
 - [Demo] Set `attendeePresenceTimeoutMs` to use value passed as parameter in the URL.
